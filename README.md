@@ -1,4 +1,4 @@
-#### The classification task will be to recognizing a 28×28 gray scale handwritten digit image and identify it as a digit among 0, 1, 2, ..., 9. We will train the following four classifiers using MNIST digit images.
+#### The classification task will be to recognizing a 28×28 gray scale handwritten digit image and identify it as a digit among 0, 1, 2, ..., 9. We will train the following four classifiers using MNIST/USPS digit images.
 ---
 1. Multilayer perceptron neural network classifier.
 2. Random Forest classifier.
